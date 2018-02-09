@@ -1,1 +1,1 @@
-# Git-training
+# Training in progress
